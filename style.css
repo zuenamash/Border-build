@@ -1,8 +1,9 @@
 .three h1{border: solid ;
-    border: solid 10px blue;
+    border: solid 10px ;
     text-align: center;
     margin: 30px  20px 5px 2opx;
     padding: 50px 20px 5px 20px
+    
     
 }
 .two{
@@ -13,7 +14,7 @@
 }
 .one{
     border: solid 20px chocolate;
-    padding: 60px 30px 60px 90px;
+    padding: 60px 30px 60px 100px;
     
     
 }
